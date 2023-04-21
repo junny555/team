@@ -5,7 +5,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>기본페이지다 집가자.fgdgfdgdfgfdffff...</title>
+		<title>기본페이지다 집가자.fgdgfdg호호호호호dfgfdffff...</title>
 	</head>
 	<body>
 		<a href="${pageContext.request.contextPath}/member/memberJoin.do"> 회원가입하기</a>
